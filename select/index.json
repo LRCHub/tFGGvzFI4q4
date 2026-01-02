@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "アオクハルカ",
+  "base_artist": "スリーズブーケ",
+  "createdAt": "2026-01-02T15:53:32.835170Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アオクハルカ",
+      "artist": "スリーズブーケ (楡井希実, 花宮初奈)",
+      "has_synced": true,
+      "path": "select/01_アオクハルカ_スリーズブーケ_(楡井希実,_花宮初奈).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アオクハルカ",
+      "artist": "スリーズブーケ",
+      "has_synced": true,
+      "path": "select/02_アオクハルカ_スリーズブーケ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アオクハルカ",
+      "artist": "スリーズブーケ",
+      "has_synced": false,
+      "path": "select/pl_01_アオクハルカ_スリーズブーケ.txt"
+    }
+  ]
+}
